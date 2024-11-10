@@ -67,7 +67,7 @@ const Header = () => {
           justifyContent={"space-between"}
           p={10}
           flexWrap={"wrap"}
-          borderRadius={{ lg: 100, md: 100, sm: 10, base: 10 }}
+          borderRadius={{ lg: 10, md: 10, sm: 10, base: 10 }}
           gap={10}
           mt={5}
         >
